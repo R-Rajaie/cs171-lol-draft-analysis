@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
+
+# Ignore encoded outputs
+src/ryan/encoded_outputs/
+=======
+>>>>>>> c138a1745cb7e73cf4a0160e0d6294c95a82b65e
