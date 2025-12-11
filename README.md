@@ -84,7 +84,7 @@ We analyze:
 
 ## Setup Instructions 
 
-### 1. Riot API Access 
+#### Riot API Access 
 You must generate a Riot API key: https://developer.riotgames.com 
 Keys expire every 24 hours. 
 
