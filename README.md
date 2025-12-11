@@ -136,6 +136,7 @@ Install with:
 
 ## Future Work and Notes (Sai)
 
+- API key should be put in a .env file inside /sai directory
 - Project roles are indicated by directories labeled with our names (the files we worked on)
 - Data collection (as explained in the notebook) may not be reproducible because the package that calls the API is very unstable, but I provide the data already so you can run the model training notebook
 - I would want to get more points of data rather than having ~15K points because there are a large number of combinations of characters that can be played per match, and I want this variation within my data to get higher accuracies.
